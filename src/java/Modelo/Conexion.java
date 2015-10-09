@@ -31,7 +31,7 @@ public class Conexion {
         }
     }
     
-    public int insertar(Usuario usuario){
-    
-    }
+//    public int insertar(Usuario usuario){
+//    
+//    }
 }
